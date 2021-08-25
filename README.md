@@ -1,5 +1,8 @@
 # ABILIX-WER-Companion app
 
+Link: UPDATED 2021
+https://github.com/Astrobotics/ABILIX-WER-Companion-app/releases
+
 #
 ![1](https://github.com/Astrobotics/ABILIX-WER/blob/master/2.png)
 
